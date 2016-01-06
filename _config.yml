@@ -1,7 +1,7 @@
 name: Roberta Pesce
 favicon: null
-layout_spectrum: 0.460913916118443
-typography_spectrum: 0.3052699323743582
+layout_spectrum: 1
+typography_spectrum: 0.88979
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.2785131314303726
-  lightness: 0.17808341374620795
-  saturation: 0.9520197666715831
-  rhythmicContrast: 0.14863221533596516
+    - '#fefefe'
+    - '#b6a39d'
+    - '#140e10'
+    - '#86533e'
+    - '#2c356c'
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
